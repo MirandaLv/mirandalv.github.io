@@ -1,7 +1,7 @@
 ---
 title: "Mapping the tidal marshes of coastal Virginia: A hierarchical transfer learning approach"
 collection: publications
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This study focuses on automating the identification and classification of tidal marsh communities in coastal Virginia, USA, using a deep learning segmentation model. Leveraging features learned from data-rich regions and a combination of Sentinel-2 and National Agriculture Imagery Program (NAIP) imagery, the research achieves a high classification accuracy of up to 88% for marsh types, specifically high and low marshes, at a spatial resolution of 0.6 meters.'
 date: 2024-01-01
 venue: 'GIScience & Remote Sensing'
 paperurl: 'http://mirandalv.github.io/files/TGRS_A_2287291.pdf'
