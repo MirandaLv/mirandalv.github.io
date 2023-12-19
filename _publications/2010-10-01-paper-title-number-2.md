@@ -11,4 +11,4 @@ Convolutional Neural Networks (CNNs) are leveraged for a wide range of satellite
 
 [Download paper here](http://mirandalv.github.io/files/DLAttentionGlimpse.pdf)
 
-Recommended citation: Runfola, D., Stefanidis, A., Lv, Z., O'Brien, J., and Baier, H., Accepted. A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance. International Journal of Geographical Information Science.
+Citation: Runfola, D., Stefanidis, A., Lv, Z., O'Brien, J., and Baier, H., Accepted. A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance. International Journal of Geographical Information Science.
