@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2024-01-01
+venue: 'International Journal of Geographical Information Science'
+paperurl: 'http://academicpages.github.io/files/PROOF_IJGIS_DeepLearningAttentionGlimpse.pdf'
+citation: 'Runfola, D., Stefanidis, A., Lv, Z., O'Brien, J., and Baier, H., Accepted. A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance. International Journal of Geographical Information Science.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/PROOF_IJGIS_DeepLearningAttentionGlimpse.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Runfola, D., Stefanidis, A., Lv, Z., O'Brien, J., and Baier, H., Accepted. A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance. International Journal of Geographical Information Science.
