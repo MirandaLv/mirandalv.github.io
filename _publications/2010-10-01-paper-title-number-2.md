@@ -1,8 +1,7 @@
 ---
 title: "A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance"
 collection: publications
-excerpt: '
-This study investigates the application of Convolutional Neural Networks (CNNs) for estimating census variables across diverse Mexican municipalities, ranging from small to large geographic extents. Utilizing deep learning techniques, particularly a multi-glimpse recurrent attention model, the research demonstrates promising results with nearly half of the tested variables (22 out of 52) achieving r2 values greater than 0.75, indicating the potential of satellite imagery for estimating socioeconomic factors in both historical periods and contemporary inaccessible regions.'
+excerpt: 'This study investigates the application of Convolutional Neural Networks (CNNs) for estimating census variables across diverse Mexican municipalities, ranging from small to large geographic extents. Utilizing deep learning techniques, particularly a multi-glimpse recurrent attention model, the research demonstrates promising results with nearly half of the tested variables (22 out of 52) achieving r2 values greater than 0.75, indicating the potential of satellite imagery for estimating socioeconomic factors in both historical periods and contemporary inaccessible regions.'
 date: 2024-01-01
 venue: 'International Journal of Geographical Information Science'
 citation: 'Runfola, D., Stefanidis, A., Lv, Z., O'Brien, J., and Baier, H., Accepted. A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance. International Journal of Geographical Information Science.'
