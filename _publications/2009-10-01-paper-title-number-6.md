@@ -2,7 +2,8 @@
 title: "Granularity at Scale: Estimating Neighborhood Well-Being from High-Resolution Orthographic Imagery and Hybrid Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-6
-excerpt: 'This research investigates the utility of deep learning for mapping shoreline armoring structures, emphasizing computationally efficient methods for semi-automated delineation using high-resolution imagery. The ResNet18-based Pyramid Attention Network (PAN) architecture demonstrated a 72% overall accuracy, with notable precision of 80% and 94% for breakwaters and groins, respectively. This lightweight implementation enables swift processing of 1.5 kilometers of shoreline in 1.4 seconds (GPU) to 2.16 seconds (CPU) within simulated user environments. The study also introduces pyShore, providing a deep learning algorithm for human coders to incorporate into a semi-automated workflow.'
+excerpt: '
+This research explores the application of advanced machine learning techniques, such as a supervised convolutional neural network and semi-supervised clustering, to accurately estimate population density, median household income, and educational attainment from high-resolution aerial imagery of various U.S. cities. The findings reveal that the developed models successfully capture neighborhood density, with the supervised approach demonstrating notable explanatory power in predicting population income and education levels. This work lays a foundation for further geographic generalization and presents a novel semi-supervised approach for extracting fine-scale information from aerial imagery without the need for extensive labeled data.'
 date: 2023-12-01
 venue: 'Under Review'
 paperurl: 
