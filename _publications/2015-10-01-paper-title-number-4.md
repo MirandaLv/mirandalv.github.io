@@ -12,6 +12,6 @@ Interdisciplinary use of geospatial data requires the integration of data from a
 
 [Explore GeoQuery](https://geo.aiddata.org/#!/)
 
-[Download paper here](http://mirandalv.github.io/files/geoquery.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0098300418305326)
 
 Recommended citation: Goodman, S., BenYishay, A., Lv, Z., & Runfola, D. (2019). GeoQuery: Integrating HPC systems and public web-based geospatial data tools. Computers & Geosciences, 122, 103-112.
