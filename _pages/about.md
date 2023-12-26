@@ -25,6 +25,10 @@ News
 
 **2023-05**: Our poster showing the process of pyShore was presented at the York River and Small Coastal Basins Symposium, VIMS.
 
+**2023-04**: I delivered a presentation titled "Mapping shoreline structures with high-resolution imagery and deep learning" on the 13th National Monitoring Conference in Virginia Beach, VA. 
+
+**2023-02**: A story in recent [Baltimore Banner](https://www.thebaltimorebanner.com/opinion/column/get-ready-for-the-chesapeake-bay-artificial-intelligence-revolution-6OCVGIAATBH6FIGDXEOG7G6LLA/) cites our work that uses artificial intelligence to identify man-made shoreline structure around the Chesapeake Bay.  
+
 **2023-01**: Our paper "Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach" was posted on arXiv.  
 
 **2022-12**: Our paper "pyShore: A deep learning toolkit for shoreline structure mapping with high-resolution orthographic imagery and convolutional neural networks" was accepted by Computers & Geosciences. 
