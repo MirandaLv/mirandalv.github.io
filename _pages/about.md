@@ -19,9 +19,9 @@ News
 
 **2023-11**: Our paper "Mapping the tidal marshes of coastal Virginia: a hierarchical transfer learning approach" was accepted by GIScience & Remote Sensing.
 
-**2023-11**: I presented a paper utilizing deep learning to map coastal tidal marshes at the SouthEastern Division of the Association of American Geographers (SEDAAG).
+**2023-11**: I presented a paper that employed deep learning techniques for mapping coastal tidal marshes at the SouthEastern Division of the Association of American Geographers (SEDAAG).
 
-**2023-11**: I gave a talk "Harnessing deep learning and high-resolution overhead imagery in Coastal Resource Management" at the 2023 SuperComputing Conference in Denver, Colorado.
+**2023-11**: I delivered a presentation titled "Harnessing Deep Learning and High-Resolution Overhead Imagery in Coastal Resource Management" at the 2023 SuperComputing Conference in Denver, Colorado.
 
 **2023-05**: Our poster showing the process of pyShore was presented at the York River and Small Coastal Basins Symposium, VIMS.
 
