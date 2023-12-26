@@ -15,10 +15,18 @@ I am a Research Scientist and Senior Geospatial Researcher at the Virginia Insti
 
 News
 ======
-**2023-12**: Our paper "A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance" was accepted by International Journal of Geographic Information Science (IJGIS)
+**2023-12**: Our paper "A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance" was accepted by International Journal of Geographic Information Science (IJGIS).
 
 **2023-11**: Our paper "Mapping the tidal marshes of coastal Virginia: a hierarchical transfer learning approach" was accepted by GIScience & Remote Sensing.
 
 **2023-11**: I presented a paper utilizing deep learning to map coastal tidal marshes at the SouthEastern Division of the Association of American Geographers (SEDAAG).
 
-**2023-11**: I gave a talk xxxx 
+**2023-11**: I gave a talk "Harnessing deep learning and high-resolution overhead imagery in Coastal Resource Management" at the 2023 SuperComputing Conference in Denver, Colorado.
+
+**2023-05**: Our poster showing the process of pyShore was presented at the York River and Small Coastal Basins Symposium, VIMS.
+
+**2023-01**: Our paper "Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach" was posted on arXiv.  
+
+**2022-12**: Our paper "pyShore: A deep learning toolkit for shoreline structure mapping with high-resolution orthographic imagery and convolutional neural networks" was accepted by Computers & Geosciences. 
+
+**2021-08**: I presented my research on William & Mary Graduate Research Symposium titled "Hybrid Object-Based Image Analysis and Convolutional Neural Network Approach to Computer Vision for Satellite Image Analysis".
