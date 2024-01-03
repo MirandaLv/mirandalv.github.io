@@ -23,7 +23,7 @@ News
 
 **2023-11**: I delivered a presentation titled "Harnessing Deep Learning and High-Resolution Overhead Imagery in Coastal Resource Management" at the 2023 SuperComputing Conference in Denver, Colorado.
 
-**2023-05**: Our poster showing the process of pyShore was presented at the York River and Small Coastal Basins Symposium, VIMS.
+**2023-05**: Our poster showing the process of pyShore was presented at the York River and Small Coastal Basins Symposium, VIMS. See poster [here](https://github.com/MirandaLv/Yorkriver_symposium/blob/main/MirandaLv_Poster_YorkRiverSymposium2023.pdf)
 
 **2023-04**: I delivered a presentation titled "Mapping shoreline structures with high-resolution imagery and deep learning" on the 13th National Monitoring Conference in Virginia Beach, VA. 
 
