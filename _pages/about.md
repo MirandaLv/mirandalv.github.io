@@ -31,6 +31,12 @@ News
 
 **2023-01**: Our paper "Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach" was posted on arXiv.  
 
-**2022-12**: Our paper "pyShore: A deep learning toolkit for shoreline structure mapping with high-resolution orthographic imagery and convolutional neural networks" was accepted by Computers & Geosciences. 
+**2022-12**: Our paper "pyShore: A deep learning toolkit for shoreline structure mapping with high-resolution orthographic imagery and convolutional neural networks" was accepted by Computers & Geosciences.
+
+**2022-07**: Our work was reported by [Tearline.mil](https://www.tearline.mil/public_page/panchromatic-imagery-deep-learning-china). 
 
 **2021-08**: I presented my research on William & Mary Graduate Research Symposium titled "Hybrid Object-Based Image Analysis and Convolutional Neural Network Approach to Computer Vision for Satellite Image Analysis".
+
+**2019-01**: Our paper "Geoquery: Integrating hpc systems and public web-based geospatial data tools" was published by Computers & Geosciences.
+
+**2017-06**: Our Geocoded Afrobarometer dataset was released at [Afrobarometer](https://www.afrobarometer.org/geocoded-data/), an open-source subnational geocoded dataset covers round 1-6 of Afrobarometer's surveys in 37 African countries between 1999 and 2015. Methodology can be found [here](https://docs.aiddata.org/ad4/pdfs/geocodingafrobarometer.pdf).  
