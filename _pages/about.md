@@ -15,6 +15,8 @@ I am a Research Scientist and Senior Geospatial Researcher at the Virginia Insti
 
 News
 ======
+**2024-03**: Our paper "Granularity at Scale: Estimating Neighborhood Socioeconomic Indicators From High-Resolution Orthographic Imagery and Hybrid Learning" was accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+
 **2023-12**: Our paper "A multi-glimpse deep learning architecture to estimate socioeconomic census metrics in the context of extreme scope variance" was accepted by International Journal of Geographic Information Science (IJGIS).
 
 **2023-11**: Our paper "Mapping the tidal marshes of coastal Virginia: a hierarchical transfer learning approach" was accepted by GIScience & Remote Sensing.
